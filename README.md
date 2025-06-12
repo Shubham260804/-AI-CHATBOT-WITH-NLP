@@ -46,6 +46,7 @@ I created a simple, interactive rule-based chatbot using Python and NLTK that ca
 
 #OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/2c835903-2b84-466a-bf47-f3a9a916b6fa)
 
 
 
